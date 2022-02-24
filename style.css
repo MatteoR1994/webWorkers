@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital,wght@0,400;0,700;1,400&display=swap');
+
+/*
+
+font-family: 'PT Sans', sans-serif;
+
+*/
+
+html {
+    font-family: 'PT Sans', sans-serif;
+}
+
+div {
+    min-height: 30%;
+    border: 1px solid black;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    padding: 20px;
+}
+
+input {
+    padding: 20px;
+    border-radius: 8px;
+    font-size: 25px;
+}
+
+img {
+    display: block;
+    margin-top: 30px;
+}
+
+button {
+    text-transform: uppercase;
+    font-weight: 700;
+    font-style: italic;
+    padding: 10px;
+    border-radius: 6px;    
+}
+
+.blu-button {
+    background-color: rgb(74, 74, 250);
+    color: white;
+}
+
+.orange-button {
+    background-color: orange;
+}
+
+.green-button {
+    background-color: green;
+    color: white;
+}
